@@ -1,1 +1,8 @@
 flask
+discord
+asyncio
+threading
+os
+dotenv
+akinator_python
+discord.ext
