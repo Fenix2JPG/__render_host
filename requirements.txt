@@ -3,6 +3,7 @@ flask==3.0.3
 discord==2.3.2
 asyncio==3.4.3
 akinator_python==1.6.0
+google
 setuptools>=65.5.0
 wheel>=0.36.2
 python-dotenv
