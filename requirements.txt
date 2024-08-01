@@ -1,7 +1,6 @@
 flask
 discord
 asyncio
-os
 dotenv
 akinator_python
 discord.ext
