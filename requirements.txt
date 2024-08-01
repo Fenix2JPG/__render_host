@@ -4,3 +4,4 @@ asyncio
 dotenv
 akinator_python
 discord.ext
+subprocess
